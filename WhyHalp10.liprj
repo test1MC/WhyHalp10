@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="ar" xml:lang="ar" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="11" flattenSnippets="false" SelectedTarget="" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="d03ecb67-e5b5-4765-983a-5a42d6b672c4">
+    <ProjectFile Source="Target/WhyHalp8.flprj" Target="Target/WhyHalp8.flprj" />
+</LingoProject>
